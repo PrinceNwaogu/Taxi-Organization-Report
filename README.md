@@ -25,11 +25,11 @@ The primary objectives of this project are:
 
 ## Analysis and Dashboards
 
-![Taxi Organization_1](https://github.com/user-attachments/assets/62bf3fe3-9f1f-40cf-a5dc-bef643a92387)
+![Taxi Organization_1](https://github.com/user-attachments/assets/05b14fe6-7808-45b3-9246-bc4a6d72fb9d)
 
-![Taxi Organization_2](https://github.com/user-attachments/assets/9ca04794-d608-4f0a-9de3-1187bcf4c50a)
+![Taxi Organization_3](https://github.com/user-attachments/assets/dded702d-977b-47eb-bf51-a2c9dbc6c28a)
 
-![Taxi Organization_3](https://github.com/user-attachments/assets/c70ee613-d2ae-4eae-9f8e-d02cf06be1d6)
+![Taxi Organization_2](https://github.com/user-attachments/assets/21b27a9e-0a43-435e-85bc-e1417ea737bb)
 
 
 ## Key Insights
